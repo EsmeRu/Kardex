@@ -1,0 +1,38 @@
+.tabla-info{
+    border: 1px solid #9abbda; 
+    box-shadow: 2px 2px 5px 2px #c1d5e8;
+}
+caption{
+    color: #426272; 
+    margin: 1%; 
+    text-align: left;
+}
+.datos-generales{
+    border: 1px solid #9abbda; 
+    background-color: #ECEFF1;
+}
+.datos-generales h2{
+    margin: 5px; 
+    text-align: left; 
+    color: #263238; 
+    padding-left: 1%;
+}
+.info{
+    border: 1px solid #9abbda;
+}
+.info-td{
+    padding: 2%;
+}
+.info strong{
+    font-size: 19px;
+}
+.plan-estudios{
+    padding-right: 1%;
+}
+.info button{
+    padding: 5%; 
+    font-size: 35px;
+}
+.contenedor-boton{
+    width: 10%;
+}
